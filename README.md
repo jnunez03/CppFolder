@@ -1,4 +1,4 @@
-# C++ Data Structures.
+# C++ Data Structures
 
 This Repo is comprised of:
 1. Classes
